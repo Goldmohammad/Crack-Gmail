@@ -1,32 +1,4 @@
-# Program: Gmail Dictionary Attack v2
 
-print"Join Ethical Hacker's Community"
-#Information
-print "Mr Mohammad"
-print "rubika: @coding_maestro"
-print "github: https://github.com/goldmohammad"
-
-print"      *                                            *   "
-print"     *                                              *    "
-print"    **                                              **   "
-print"   *   **                                        **   *    "
-print"   **   **  *                               *   **    **   "
-print"   ***    * **    My love Elena   **  *    ***  "
-print"    ****    ******************************* ***   ****   "
-print"       *******    *****        *******    **********  "
-print"  ***********           *****             ************     "
-print"    **********    *** * **   ** ****    **********     "
-print"         ********** ** **     ** ****************    "
-print"   *************** ** **  ***  **  **********************  "
-print"        ******   ***************************   ******     "
-print"                *************************    "
-print"               **************************  "
-print"               **** ** ** **** ** ** **  "
-print"                ***  *  *  **  *  * ***   "
-print"                 **                 **    "
-print"                   *                *     "
-
-print" Disclaimer- This tool is only for educational purpose"
 import smtplib
 
 smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
